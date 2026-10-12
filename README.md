@@ -119,7 +119,6 @@ A browser-based action RPG that teaches machine learning to beginners. Players b
 - **Gamification:** XP and levels, stars, badges, daily streaks and a real-time leaderboard
 - **Stack:** React, TypeScript, Vite, Tailwind CSS, Gemini API, Pyodide, Monaco Editor, Plotly.js, Firebase
 - **Built:** Solo, for the Build With Gemini AI sprint by GDG on Campus, IIT Bhilai
-- **Live demo:** [Play GeminiQuest](https://gemini-ml-quest.onrender.com)
 
 ### 💬 [Feedback-Sensitive Emotional Support Chatbot](https://github.com/Chetan10R15/ML-Project-12341750-DSL501)
 `AI Engineer` `Data Analyst`
@@ -146,7 +145,6 @@ A Raspberry Pi robot that searches for waste objects using a YOLOv8 model on a l
 A data analysis and visualisation project on classifying the type of distortion in an image, so the right method can be chosen to remove it.
 
 - **Stack:** Python, Jupyter Notebook
-- **Findings:** [ADD 1–2 key findings, e.g. which distortion types were hardest to separate]
 
 ### ⚛️ [CDS React App](https://github.com/Chetan10R15/cds-react-app)
 `SDE`
